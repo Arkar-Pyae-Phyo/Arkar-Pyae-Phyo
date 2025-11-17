@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi,+I'm+Arkar+Pyae+Phyo.;Junior+Cloud+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Hi,+I'm+Arkar+Pyae+Phyo.;Junior+Cloud+Developer" alt="Typing SVG" />
 
 <p>
 <a href="https://linkedin.com/in/arkar-pyae-phyo" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -52,9 +52,9 @@
 
 <div align="center">
 <a href="https://github.com/arkar-pyae-phyo">
-<img src="https://github-readme-stats.vercel.app/api?username=arkar-pyae-phyo&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=arkar-pyae-phyo&show_icons=true&theme=tokyonight&hide_border=true" height="180" alt="stats graph" />
 </a>
 <a href="https://github.com/arkar-pyae-phyo">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkar-pyae-phyo&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkar-pyae-phyo&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
 </a>
 </div>

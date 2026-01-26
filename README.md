@@ -10,9 +10,6 @@
   <a href="https://linkedin.com/in/arkar-pyae-phyo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/arkar-pyae-phyo" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=flat&logo=github&logoColor=white" />
-  </a>
   <a href="https://twitter.com/akpp49899508" target="_blank">
     <img src="https://img.shields.io/badge/X-111827?style=flat&logo=x&logoColor=white" />
   </a>

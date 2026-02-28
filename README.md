@@ -75,18 +75,6 @@ Interested in building **secure, scalable systems** and applying **DevOps + IaC*
 
 ---
 
-## GitHub
-<div align="center">
-  <a href="https://github.com/arkar-pyae-phyo">
-    <img src="https://github-readme-stats.vercel.app/api?username=arkar-pyae-phyo&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/arkar-pyae-phyo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arkar-pyae-phyo&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top languages" />
-  </a>
-</div>
-
----
-
 <p align="center">
   <i>Open to opportunities in Cloud, DevOps, and ML Engineering.</i>
 </p>

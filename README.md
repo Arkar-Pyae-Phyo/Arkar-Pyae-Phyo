@@ -1,55 +1,57 @@
-<h1 align="center">Arkar Pyae Phyo</h1>
-<p align="center">
-  <strong>Junior Cloud / AI Engineer</strong> · Cloud Engineering · DevOps · IaC · Kubernetes · MLOps
-</p>
+<div id="header" align="center">
 
-<p align="center">
-  International engineering student at <strong>Mae Fah Luang University (Thailand)</strong> passionate about
-  <strong>cloud computing</strong> and <strong>AI</strong>. I build secure, scalable backend systems and deploy ML solutions into real-world applications.
-</p>
+<h1>Hi there, I'm Arkar Pyae Phyo <img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
 
-<p align="center">
-  <a href="https://arkarpyaephyo.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-111827?style=flat&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/arkar-pyae-phyo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/arkar.pyae.phyo.694912" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/akpp_11trackk/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
-  </a>
-</p>
+<p><strong>Junior Cloud / AI Engineer</strong></p>
+<p>Cloud Engineering · DevOps · AI · MLOps</p>
 
----
+</div>
 
-## What I do
-- Cloud & DevOps: Terraform · Docker · Kubernetes · Jenkins · Linux
-- ML Engineering: model prototyping → API integration → deployment basics
-- Interests: MLOps, monitoring/logging, secure systems
+<br>
 
-## Tech Stack
-**Languages:** Python · Go · SQL · JavaScript · C# · Bash  
-**Tools:** Terraform · Docker · Kubernetes · Jenkins · Git · Apache Spark  
-**ML/Frameworks:** NumPy · Pandas · scikit-learn · PyTorch · FastAPI · OpenCV
+<div>
+  <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="340" />
+</div>
 
-## Projects
-- **AI Exam Proctoring Web Platform (In Progress)** — event logging, evidence screenshots, webcam checks (OpenCV)
-- **Parkinson’s Memory Training Assistant** — data pipeline, leakage checks, API integration, privacy-aware logging + basic monitoring
-- **Object Detection Prototype (YOLO/SSD)** — training + image/video inference pipeline, documented performance + failure cases
+### 💫 About Me
 
-## Achievements
-- **Grand Prize Winner (National Round)** — Huawei ICT Competition (Cloud Track) *(2025–2026)* — Representative of Thailand
-- **Winner** — Code for Hope Hackathon *(Jun 26–27, 2025)* — Payap University (Chiang Mai)
-- **1st Runner-Up** — ADT MediHack – Exploring AI for Healthcare Solution *(2026)* — Mae Fah Luang University
-- **1st Runner-Up** — AI/GAME JIWC *(2025)* — Mae Fah Luang University
-- **2nd Runner-Up** — AR/VR JIWC *(2024)* — Mae Fah Luang University
+- 🎓 I’m an Engineering Student at **Mae Fah Luang University, Thailand**
+- 📚 Currently growing my skills through hands-on projects, certifications, and continuous learning
+- 🥅 My goal is to become a strong engineer in **Cloud, DevOps, and ML Engineering**
 
-## Certifications (Huawei Cloud)
-HCIA-Cloud Service · HCIA-IOT · HCCDP-Solution Architectures · HCCDP-Cloud Migration · HCCDA-Cloud Native · HCCDA-Tech Essentials · HCCDA-AI
+<br>
 
-<p align="center">
-  <i>Open to opportunities in Cloud, DevOps, and ML Engineering.</i>
-</p>
+## 🌐 Connect with Me
+
+<div align="center">
+
+<a href="https://arkarpyaephyo.com/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkedin.com/in/arkar-pyae-phyo" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.facebook.com/arkar.pyae.phyo.694912" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.instagram.com/akpp_11trackk/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+</div>
+
+<br>
+
+## 💻 Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,js,cs,bash,docker,kubernetes,terraform,jenkins,git,linux,fastapi,pytorch,opencv,mysql&perline=8" />
+</div>
+
+<br>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=arkarpyaephyo&theme=radical" />
+<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=arkarpyaephyo&theme=radical" />
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arkarpyaephyo&theme=radical" />
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=arkarpyaephyo&theme=radical" />
+<img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=arkarpyaephyo&theme=radical&utcOffset=7" />
+
+</div>
+
+<br>

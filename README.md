@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-<h1>Hi there, I'm Arkar Pyae Phyo <img src="./assets/giphy.gif" width="35px" alt="GIF"></h1>
+<h1>Hi there, I'm Arkar Pyae Phyo</h1>
 
 <p><strong>Junior Cloud / AI Engineer</strong></p>
 <p>Cloud Engineering · DevOps · AI · MLOps</p>
@@ -10,8 +10,7 @@
 <br>
 
 <div>
-  <img align="right" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Profile Image" width="340" />
-</div>
+  <img align="right" src="./coding.gif" alt="Coding GIF" width="360" />
 
 ### 💫 About Me
 
@@ -19,7 +18,9 @@
 - 📚 Currently growing my skills through hands-on projects, certifications, and continuous learning
 - 🥅 My goal is to become a strong engineer in **Cloud, DevOps, and ML Engineering**
 
-<br>
+</div>
+
+<br clear="right"/>
 
 ## 🌐 Connect with Me
 

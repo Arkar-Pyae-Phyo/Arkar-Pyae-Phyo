@@ -9,10 +9,8 @@
   
   <br>
   
-  <div>
-    <img align="right" src="./code.gif" alt="Coding GIF" width="360" />
   
-  ### 💫 About Me
+  ### About Me
   
   - I’m an Engineering Student at **Mae Fah Luang University, Thailand**
   - Currently growing my skills through hands-on projects, certifications, and continuous learning
@@ -22,7 +20,7 @@
   
   <br clear="right"/>
   
-  ## 🌐 Connect with Me
+  ## Connect with Me
   
   <div align="center">
   
@@ -34,15 +32,15 @@
   
   <br>
   
-  ## 💻 Tech Stack
+  ## Tech Stack
   
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,go,js,cs,bash,docker,kubernetes,terraform,jenkins,git,linux,pytorch,opencv,mysql,aws,azure&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,go,js,docker,kubernetes,pytorch,aws,azure&perline=8" />
   </div>
   
   <br>
   
-  ## 📊 GitHub Stats
+  ## GitHub Stats
   
   <div align="center">
   

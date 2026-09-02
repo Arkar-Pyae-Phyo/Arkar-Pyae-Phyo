@@ -10,13 +10,6 @@ Engineering student at Mae Fah Luang University, Thailand, with a strong interes
 
 I am continuously developing my skills through hands-on projects, certifications, and self-learning. My goal is to build reliable, scalable, and intelligent systems while growing as a professional engineer.
 
-## Focus Areas
-
-- Cloud Computing
-- Artificial Intelligence
-- DevOps
-- Machine Learning
-
 ## Connect
 
 [Portfolio](https://arkarpyaephyo.com/) •

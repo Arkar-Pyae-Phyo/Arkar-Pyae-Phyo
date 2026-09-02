@@ -2,7 +2,7 @@
 
 # Arkar Pyae Phyo
 
-### Junior Cloud and AI Engineer
+### Cloud and AI Engineer
 
 </div>
 

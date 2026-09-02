@@ -13,5 +13,4 @@ I am continuously developing my skills through hands-on projects, certifications
 ## Connect
 
 [Portfolio](https://arkarpyaephyo.com/) •
-[LinkedIn](https://linkedin.com/in/arkar-pyae-phyo) •
-[Instagram](https://www.instagram.com/akpp_11trackk/)
+[LinkedIn](https://linkedin.com/in/arkar-pyae-phyo) 
